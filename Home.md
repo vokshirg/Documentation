@@ -9,7 +9,7 @@ Want to dive into development details? Follow the links to navigate to the detai
 **Tip**: check readme.md files in each repository here. 
 
 ### About DAO.Casino
-* [Concept Overview and Goals](../1.1.%20Concept%20Overview%20and%20Goals.md)
+* [Concept Overview and Goals](1.%20About%20Dao.Casino/1.1.%20Concept%20Overview%20and%20Goals.md)
 * [Detailed  RNG Algorithm Specification](../1.%20About%20Dao.Casino/1.2.%20Detailed%20Algorithm%20Specification.md)
 
 ***
